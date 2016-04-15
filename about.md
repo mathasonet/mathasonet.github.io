@@ -12,7 +12,7 @@ Young little Swift-ling trying to get his feet adequately wet.
 
 I've made a grand total of 1 apps.
 
-[Bank'd](https://github.com/mathasonet/bankd)
+[Bank'd](https://github.com/mathasonet/bank-d)
 
 ### Contact me
 
