@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Do what now?
 
-### More Information
+### Mat
 
-A place to include any other types of information that you'd like to include about yourself.
+Young little Swift-ling trying to get his feet adequately wet.
+
+I've made a grand total of 1 apps.
+[Bank'd](https://github.com/mathasonet/bankd)
 
 ### Contact me
 
