@@ -289,5 +289,35 @@ footer {
 @import "svg-icons";
 
 div#cloudflare-old-browser {
+  background: #cc4232;
+  position: absolute;
+  z-index: 100000;
+  width: 100%;
   height: 20px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  padding: 4px 0;
+  font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: #FFF;
+  box-sizing: content-box;
+}
+
+a#cloudflare-old-browser-close {
+  background: #8b2a1f;
+  display: block;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  text-decoration: none !important;
+  cursor: pointer;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.cloudflare-old-browser-body {
+  margin-top: 20px
 }
